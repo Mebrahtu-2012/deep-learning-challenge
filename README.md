@@ -6,8 +6,13 @@ This repository contains code and documentation for a deep learning model develo
 
 - **Data Preprocessing**: Preprocessing of the dataset involves identifying target and feature variables, handling rare categorical variables, encoding categorical variables, splitting the data into training and testing sets, and scaling the features.
 
-- **Compiling, Training, and Evaluating the Model**: This step involves designing a neural network model using TensorFlow and Keras, compiling and training the model, and evaluating its performance using test data to calculate loss and accuracy.
+- **Compiling, Training, and Evaluating the Model**: This step involves designing a neural network model using TensorFlow and Keras, compiling and training the model, and evaluating its performance using test data to calculate loss and accuracy. Relevant references for this step include:
+    - TensorFlow Keras ModelCheckpoint callback documentation: [ModelCheckpoint](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/ModelCheckpoint)
+    - Class activities
+    - Study group discussions
+    - ChatGPT for debugging purposes
 
 - **Optimizing the Model**: Optimization techniques such as adjusting input data, modifying neural network architecture, and experimenting with activation functions and training parameters are applied to improve the model's predictive accuracy.
 
-- **Report on the Neural Network Model**: A comprehensive report on the performance of the deep learning model is written, including details on data preprocessing, model architecture, achieved performance, attempted optimizations, and recommendations for future improvements
+- **Report on the Neural Network Model**: A comprehensive report on the performance of the deep learning model is written, including details on data preprocessing, model architecture, achieved performance, attempted optimizations, and recommendations for future improvements.
+
